@@ -1,0 +1,24 @@
+
+*.bak
+*.log
+*.spl7
+
+# Visual Studio
+.vs/
+**/[Bb]in/*
+[Oo]bj/
+
+# Keil files
+**/Listings
+**/DebugConfig
+*.uvguix.*
+*.scvd
+*.o
+*.d
+*.sct
+*.lnp
+*.htm
+*.asm
+*.axf
+*.dep
+*.iex
